@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    @font-face {
+        font-family: 'solaire';
+        src: url(./assets/Solaire\ Rough.otf);
+    }
+    @font-face {
+        font-family: 'Bildeberg';
+        src: url(./assets/Bilderberg.ttf);
+        
+    }
+    @font-face {
+        font-family: 'Dominica';
+        src: url(./assets/DOMINICA.TTF);
+        
+    }
+}
